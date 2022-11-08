@@ -1,1 +1,1 @@
-# CNN_Project
+# Regional Character Detection using Convolutional Neural Networks
